@@ -5,10 +5,10 @@
 [Live Demo](https://astro-sanity-starter-demo.netlify.app/)
 
 Netlify Astro and Sanity minimal starter with [visual editing](https://docs.netlify.com/visual-editor/overview/).
-
-| Prerequisites                                                                |
+mykr
+| Prerequisites |
 | :--------------------------------------------------------------------------- |
-| [Node.js](https://nodejs.org/) v20.+                                         |
+| [Node.js](https://nodejs.org/) v20.+ |
 | (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
 
 ## Getting Started
